@@ -1,9 +1,15 @@
 #include<stdio.h>
 int main()
 {
-printf("Hello World");
+printf("Hello Bomaby");
 printf("Junta.....");
+
 printf("WE are trying to merge the file");
+
+printf("My name is Shubham");
+printf("I am trying to another commiit")
+
+
 
 return 0;
 }
